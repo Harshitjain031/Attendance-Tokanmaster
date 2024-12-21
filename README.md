@@ -8,6 +8,8 @@
 
 ## Contract Address
 0xF637f6EAF7d98778A731fb743586BE9dcA0316FE
+![image](https://github.com/user-attachments/assets/df6ef34e-07c6-4b53-b1f6-e82adb1fb951)
+
 
 ## Project Vision
 The vision of the **AttendanceToken** project is to provide a transparent and automated way to reward students for their participation and attendance in classes using blockchain technology. By using smart contracts and tokens, the system ensures fair and immutable tracking of attendance. The goal is to create a more efficient and engaging system where students are incentivized for regular attendance and participation, leveraging blockchain's trustless and secure properties.
